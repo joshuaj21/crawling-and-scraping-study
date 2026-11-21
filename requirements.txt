@@ -1,3 +1,7 @@
-beautifulsoup4==4.12.2
-numpy==1.26.4
-#python==3.11.8
+beautifulsoup4>=4.15.0
+pandas>=3.1.1
+selenium>=4.53.0
+webdriver-manager>=4.1.2
+
+# for running .ipynb 
+ipykernel>=7.4.0
